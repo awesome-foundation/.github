@@ -18,6 +18,15 @@ The stack leverages the following AWS services, orchestrated through CloudFormat
 
 All components have been battle-tested in production scenarios, ensuring reliability, scalability, and operational excellence.
 
+## Roadmap
+
+The awesome-foundation ecosystem consists of several repositories that work together to provide a complete AWS infrastructure solution:
+
+1. **[dns](https://github.com/awesome-foundation/dns)** - Managing DNS records in a config-as-code way ✅ *Published*
+2. **[core-infrastructure](https://github.com/awesome-foundation/core-infrastructure)** - Templates for base networking and foundational infrastructure ✅ *Published*
+3. **[web-service](https://github.com/awesome-foundation/web-service)** - Example of running an ECS Fargate task on this foundation 🚧 *Q1 2026*
+4. **[rds-aurora](https://github.com/awesome-foundation/rds-aurora)** - Example of running an RDS Aurora cluster on this foundation 🚧 *Q1 2026*
+
 ## Who Is This For?
 
 This foundation is designed for:
