@@ -25,7 +25,7 @@ The awesome-foundation ecosystem consists of several repositories that work toge
 1. **[dns](https://github.com/awesome-foundation/dns)** - Managing DNS records in a config-as-code way ✅ *Published*
 2. **[core-infrastructure](https://github.com/awesome-foundation/core-infrastructure)** - Templates for base networking and foundational infrastructure ✅ *Published*
 3. **[web-service](https://github.com/awesome-foundation/web-service)** - Example of running an ECS Fargate task on this foundation 🚧 *Q1 2026*
-4. **[rds-aurora](https://github.com/awesome-foundation/rds-aurora)** - Example of running an RDS Aurora cluster on this foundation 🚧 *Q1 2026*
+4. **[awesome-db](https://github.com/awesome-foundation/awesome-db)** - Example of running an RDS Aurora cluster on this foundation ✅ *Published*
 
 ## Who Is This For?
 
