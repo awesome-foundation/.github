@@ -27,6 +27,12 @@ The awesome-foundation ecosystem consists of several repositories that work toge
 3. **[web-service](https://github.com/awesome-foundation/web-service)** - Example of running an ECS Fargate task on this foundation 🚧 *Q1 2026*
 4. **[awesome-db](https://github.com/awesome-foundation/awesome-db)** - Example of running an RDS Aurora cluster on this foundation ✅ *Published*
 
+### Tools
+
+- **[cfntop](https://github.com/awesome-foundation/cfntop)** - Live TUI monitor for AWS CloudFormation stacks
+- **[cfnpeek](https://github.com/awesome-foundation/cfnpeek)** - Read-only CLI for inspecting CloudFormation stack resources, outputs, exports, and events
+- **[aws-config-d](https://github.com/awesome-foundation/aws-config-d)** - Manage multiple AWS SSO organizations with separate config files
+
 ## Who Is This For?
 
 This foundation is designed for:
