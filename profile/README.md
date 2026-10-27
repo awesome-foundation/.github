@@ -29,6 +29,8 @@ The awesome-foundation ecosystem consists of several repositories that work toge
 
 ### Tools
 
+- **[cfnrain](https://github.com/awesome-foundation/cfnrain)** - Community fork of AWS CloudFormation Rain, and a replacement for Rain v1.24.4. Not affiliated with AWS
+- **[install-cfnrain](https://github.com/awesome-foundation/install-cfnrain)** - GitHub Action that installs cfnrain and verifies the download
 - **[cfntop](https://github.com/awesome-foundation/cfntop)** - Live TUI monitor for AWS CloudFormation stacks
 - **[cfnpeek](https://github.com/awesome-foundation/cfnpeek)** - Read-only CLI for inspecting CloudFormation stack resources, outputs, exports, and events
 - **[aws-config-d](https://github.com/awesome-foundation/aws-config-d)** - Manage multiple AWS SSO organizations with separate config files
